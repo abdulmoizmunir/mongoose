@@ -1,4 +1,4 @@
 # mongoose
-Starter Code for Mongoose
+This is the starter code for Mongoose
 
-Remember to install mongoose via: `$ npm install mongoose`
+(Assuming you have Node.js installed), remember to further install mongoose via: `$ npm install mongoose`
